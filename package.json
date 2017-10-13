@@ -31,7 +31,7 @@
     "jest-cli": "^20.0.4"
   },
   "peerDependencies": {
-    "canvas-prebuilt": "git://github.com/mtbuildboola/node-canvas-prebuilt"
+    "canvas-prebuilt": "^1.6"
   },
   "jest": {
     "testEnvironment": "node"
